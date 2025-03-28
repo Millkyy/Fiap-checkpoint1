@@ -1,8 +1,11 @@
 # API de Pedidos - Checkpoint SOA
 
 ## 👩‍👧‍👧 Integrantes
+
 Aline Zeppelini - RM97966
+
 Camilly Ishida - RM551474
+
 Julia Galvão - RM550201
 
 ## 📌 Descrição
